@@ -62,7 +62,7 @@ input1.addEventListener("input", () => {
 })
 
 let input2  = document.getElementById("direccion")
-input1.addEventListener("input", () => {
+input2.addEventListener("input", () => {
     localStorage.setItem("direccion", input2.value);
 })
 
