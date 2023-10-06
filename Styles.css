@@ -1,0 +1,52 @@
+
+
+.TITULOS {
+
+    color: #ffffff;
+    font-weight: bold;
+}
+
+section {
+
+    background-color: #65CA7D;
+    margin: 20px;
+}
+
+ul {
+
+    list-style-type: none;
+}
+
+.itemsSecc {
+
+    margin: 10px; 
+    background-color: #65CA7D;
+}
+
+.menuStyle {
+
+    background-color: #65CA7D;
+}
+
+.productoButton {
+
+    margin-top: 20px; 
+    width: 100px; 
+    background-color: #059533; 
+    border-color: #65CA7D; 
+    border-width: 3px; 
+    border-radius: 5px; 
+    border-style:solid; 
+    padding: 5px;
+}
+
+.elementosCarrito {
+
+    border-color: #ffffff;
+    border-width: 3px; 
+    border-radius: 5px; 
+    border-style:solid; 
+    padding: 5px;
+}
+
+
